@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -24,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
