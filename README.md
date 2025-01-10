@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sakshig03/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -36,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
