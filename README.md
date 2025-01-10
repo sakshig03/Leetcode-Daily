@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sakshig03/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sakshig03/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
 ## Enumeration
 |  |
