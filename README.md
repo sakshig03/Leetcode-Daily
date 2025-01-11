@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/sakshig03/Leetcode-Daily/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/sakshig03/Leetcode-Daily/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/2571-find-the-pivot-integer) |
+| [2752-sum-multiples](https://github.com/sakshig03/Leetcode-Daily/tree/master/2752-sum-multiples) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
