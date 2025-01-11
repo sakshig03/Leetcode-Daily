@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/sakshig03/Leetcode-Daily/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/sakshig03/Leetcode-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
