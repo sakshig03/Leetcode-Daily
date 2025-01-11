@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sakshig03/Leetcode-Daily/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/sakshig03/Leetcode-Daily/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/sakshig03/Leetcode-Daily/tree/master/2491-smallest-even-multiple) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/sakshig03/Leetcode-Daily/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/sakshig03/Leetcode-Daily/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
