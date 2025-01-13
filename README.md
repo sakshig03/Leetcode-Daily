@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1448-maximum-69-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/1448-maximum-69-number) |
 | [2083-three-divisors](https://github.com/sakshig03/Leetcode-Daily/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sakshig03/Leetcode-Daily/tree/master/2238-a-number-after-a-double-reversal) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/2571-find-the-pivot-integer) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
