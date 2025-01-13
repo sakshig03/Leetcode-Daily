@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/sakshig03/Leetcode-Daily/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/sakshig03/Leetcode-Daily/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sakshig03/Leetcode-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
