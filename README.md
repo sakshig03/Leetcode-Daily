@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/sakshig03/Leetcode-Daily/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sakshig03/Leetcode-Daily/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sakshig03/Leetcode-Daily/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/sakshig03/Leetcode-Daily/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
