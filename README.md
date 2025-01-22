@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/sakshig03/Leetcode-Daily/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/sakshig03/Leetcode-Daily/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/sakshig03/Leetcode-Daily/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/sakshig03/Leetcode-Daily/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/sakshig03/Leetcode-Daily/tree/master/2556-convert-the-temperature) |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakshig03/Leetcode-Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakshig03/Leetcode-Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
