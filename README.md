@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sakshig03/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/sakshig03/Leetcode-Daily/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/0258-add-digits) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2892-check-if-array-is-good](https://github.com/sakshig03/Leetcode-Daily/tree/master/2892-check-if-array-is-good) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshig03/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sakshig03/Leetcode-Daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
