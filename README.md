@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshig03/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2892-check-if-array-is-good](https://github.com/sakshig03/Leetcode-Daily/tree/master/2892-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshig03/Leetcode-Daily/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshig03/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sakshig03/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
