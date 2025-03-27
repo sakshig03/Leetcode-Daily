@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/sakshig03/Leetcode-Daily/tree/master/0841-shortest-distance-to-a-character) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakshig03/Leetcode-Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sakshig03/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sakshig03/Leetcode-Daily/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0283-move-zeroes) |
+| [0841-shortest-distance-to-a-character](https://github.com/sakshig03/Leetcode-Daily/tree/master/0841-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sakshig03/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0841-shortest-distance-to-a-character](https://github.com/sakshig03/Leetcode-Daily/tree/master/0841-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
 | ------- |
