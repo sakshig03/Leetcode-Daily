@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sakshig03/Leetcode-Daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sakshig03/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sakshig03/Leetcode-Daily/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/sakshig03/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakshig03/Leetcode-Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sakshig03/Leetcode-Daily/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2892-check-if-array-is-good](https://github.com/sakshig03/Leetcode-Daily/tree/master/2892-check-if-array-is-good) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sakshig03/Leetcode-Daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshig03/Leetcode-Daily/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/sakshig03/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [2892-check-if-array-is-good](https://github.com/sakshig03/Leetcode-Daily/tree/master/2892-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sakshig03/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sakshig03/Leetcode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/sakshig03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sakshig03/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0841-shortest-distance-to-a-character](https://github.com/sakshig03/Leetcode-Daily/tree/master/0841-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
