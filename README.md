@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakshig03/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/sakshig03/Leetcode-Daily/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/sakshig03/Leetcode-Daily/tree/master/0841-shortest-distance-to-a-character) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sakshig03/Leetcode-Daily/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sakshig03/Leetcode-Daily/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakshig03/Leetcode-Daily/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sakshig03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshig03/Leetcode-Daily/tree/master/0242-valid-anagram) |
 | [0841-shortest-distance-to-a-character](https://github.com/sakshig03/Leetcode-Daily/tree/master/0841-shortest-distance-to-a-character) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sakshig03/Leetcode-Daily/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
 | ------- |
